@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+
+    <string name="dummy_comment_1">User can insert a comment about his habit performance</string>
+    <string name="dummy_comment_2">Comment Example - Feeling excited! But so much to do!</string>
+
+    <string name="rows_number">Number of rows in database table:</string>
+</resources>
