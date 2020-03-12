@@ -1,4 +1,6 @@
 # HabitTracker
+![Cover](/assets/smartmockups_k7ocvbd4.jpg)
+
 Habit Tracker (Project 9) for "Android Basics by Google Nanodegree Program" - (EU Scholarship) by Udacity
 
 ## Project Overview
